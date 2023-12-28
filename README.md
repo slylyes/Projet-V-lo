@@ -14,8 +14,11 @@
 
 ## Etapes du projet :    
    Le projet est composé de trois parties différentes : 
+   
    1_ Puissance développée
+   
    2_ Etude de la montée de l'Alpe d'Huez à vélo
+   
    3_ Transmission des forces
    
 
